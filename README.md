@@ -4,6 +4,7 @@ https://www.coursera.org/learn/ml-foundations
 
 concepts of machine learning like 
  • regression
+
  • classification
  
  • clustering
