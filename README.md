@@ -3,6 +3,7 @@ some work from Machine Learning Foundations: A Case Study Approach - univ of was
 https://www.coursera.org/learn/ml-foundations
 
 concepts of machine learning like 
+
  • regression
 
  • classification
