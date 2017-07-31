@@ -4,15 +4,15 @@ https://www.coursera.org/learn/ml-foundations
 
 concepts of machine learning like 
 
- * Regression
-		* Case : House price prediction
- * Classification
+* Regression
+	* Case : House price prediction
+* Classification
 		Case : Amazon product review - Sentiment analysis
- * Clustering
+* Clustering
 		Case : Wikipedia document retrieval
- * Recommender systems
+* Recommender systems
 
- * Deep learning - image search
+* Deep learning - image search
  
 1.	A numbered list
 	1.	A nested numbered list
