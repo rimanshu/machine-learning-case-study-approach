@@ -13,6 +13,11 @@ concepts of machine learning like
  * Recommender systems
 
  * Deep learning - image search
+ 
+1.	A numbered list
+	1.	A nested numbered list
+	2.	Which is numbered
+2.	Which is numbered
 
 
 have been studied by case and python code for each using public datasets is implemented.
