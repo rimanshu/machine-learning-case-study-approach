@@ -19,6 +19,10 @@ concepts of machine learning like
 	2.	Which is numbered
 2.	Which is numbered
 
+* Bullet list
+  * Nested bullet
+	  * Sub-nested bullet etc
+* Bullet list item 2
 
 have been studied by case and python code for each using public datasets is implemented.
 Python code implemented in "Jupyter notebooks" for ease of use
