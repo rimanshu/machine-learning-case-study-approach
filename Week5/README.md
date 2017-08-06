@@ -4,3 +4,4 @@ used two recommender models
 2.	Item similiarity model
 
 Comparision between two models done using "Precision-recall" curve
+"popularity" model and "similiarity" model used
