@@ -1,7 +1,7 @@
 # machine learning a case study
 some work from Machine Learning Foundations: A Case Study Approach - univ of washington coursera course
 https://www.coursera.org/learn/ml-foundations
-this is 2nd course in specialization "Machine learning - univ of washington"
+this is 1st course in specialization "Machine learning - univ of washington"
 
 concepts of machine learning like 
 
